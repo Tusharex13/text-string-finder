@@ -10,11 +10,14 @@ A Python program to search and highlight strings inside text files.
 - Terminal highlighting
 
 ## How to Run
+
 ```bash
 python find_in_file.py
+```
+
 Then enter:
--File name
--String to search
+- File name
+- String to search
 
 ## Requirements
--Python 3.x
+- Python 3.x
