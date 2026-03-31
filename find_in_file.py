@@ -1,8 +1,11 @@
+print("====== Welcome to text finder in txt files ======")
 print("<<<This program is case sensitive!>>>")
 
 
     ##file operation
 
+import os
+print("Python is currently looking in:", os.getcwd())
 
 filename = input("Enter file name: ")
 try:
